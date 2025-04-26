@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 2rem;
+  background: #f4f4f4;
+}
+
+h1 {
+  text-align: center;
+}
+
+textarea {
+  width: 75%;
+  height: 300px;
+  padding: 1rem;
+  font-size: 16px;
+}
