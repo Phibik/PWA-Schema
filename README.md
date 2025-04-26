@@ -1,7 +1,7 @@
 # Com Desactivar Cache per Fer `liveserver`
 Per anar desenvolupant i veure els cambis en directe, s'ha de treure el cache.
 
-* Primer en el `manifest.json` descomentar el següent comentari:
+### Primer en el `manifest.json` descomentar el següent comentari:
 ```
 //ARCHIVOS = [];
 ```
