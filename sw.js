@@ -1,5 +1,5 @@
 const CACHE_NAME = 'PWA-cache';
-var ARCHIVOS = [
+let ARCHIVOS = [
   './',
   './index.html',
   './css/style.css',
